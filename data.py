@@ -1,0 +1,5 @@
+ShrOne = ('TATA', '04/08/19', 40, 3, 51)
+ShrTwo = ('Tesla', '09/11/19', 45, 4, 55)
+ShrThr = ('SpaceX', '17/05/20', 35, 2, 30)
+ShrFou = ('Amazon', '26/05/21', 51, 7, 62)
+ShrFiv = ('BlueOrigin', '07/07/20', 42, 5, 45)
